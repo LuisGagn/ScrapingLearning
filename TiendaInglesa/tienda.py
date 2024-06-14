@@ -4,15 +4,13 @@
 # Una vez terminado probaremos realizar el scrape usando Playwright ya que segun investigue, es mas rapido.
 
 # Objetivos: 
-# Scrapear 1 pagina entera ✅
-# Scrapear todas las URL ❌
-# Scrapear todas las paginas existentes ❌
-# Scrapear Ofertas ❌
-# Utilizar formato conocido ❌
+# Scrapear 1 categoria entera ✅
+# Scrapear Ofertas ✅
 
 
 # Test 1: Pagina -> Limpieza, Items Totales: 740, Items totales Scrapeados 740 
-
+# Test 2: Scrapeo de ofertas general; 3412 Items scrapeados, total items existentes: 3412
+# Data is legit.
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -44,7 +42,6 @@ def GetUrls(url):
         for link in links:
             csv_writer.writerow([link])
 
-
 # GetUrls('https://www.tiendainglesa.com.uy/')
 
 
@@ -65,8 +62,19 @@ def ScrapeItems(url):
                         link = div.find_element(By.TAG_NAME, 'a')
                         href = link.get_attribute('href')
                         itemName = div.find_element(By.CLASS_NAME, 'card-product-name')
+                        precioOferta = '0'  
                         itemPrice = div.find_element(By.CLASS_NAME, 'ProductPrice')
-                        items.append([itemName.text, itemPrice.text, href])
+
+                        try:
+                            itemPrice = div.find_element(By.CLASS_NAME, 'wTxtProductPriceBefore')
+                            precioOferta = div.find_element(By.CLASS_NAME, 'ProductPrice').text
+                        except:
+                            pass
+
+                            
+
+                        items.append([itemName.text, itemPrice.text, precioOferta, href])
+
                     except Exception as e:
                         print(e)
                         continue
@@ -91,9 +99,9 @@ def ScrapeItems(url):
 # Escribe los items.
 with open('items.csv', 'w', newline='', encoding='utf-8') as file:
     csv_writer = csv.writer(file)
-    csv_writer.writerow(['Item', 'Precio', 'URL'])
+    csv_writer.writerow(['Item', 'Precio', 'Precio Oferta', 'URL'])
     try:
-        ScrapeItems('https://www.tiendainglesa.com.uy/supermercado/categoria/limpieza/1895')
+        ScrapeItems('https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716')
     finally:
         driver.quit()
 
