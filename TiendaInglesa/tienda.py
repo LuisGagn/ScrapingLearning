@@ -3,6 +3,14 @@
 # Luego evaluaremos como funciona la pagina web para analizar como realizar un scrape de cada item mediante pagination.
 # Una vez terminado probaremos realizar el scrape usando Playwright ya que segun investigue, es mas rapido.
 
+# Objetivos: 
+# Scrapear 1 pagina entera ✅
+# Scrapear todas las URL ❌
+# Scrapear todas las paginas existentes ❌
+# Scrapear Ofertas ❌
+# Utilizar formato conocido ❌
+
+
 # Test 1: Pagina -> Limpieza, Items Totales: 740, Items totales Scrapeados 740 
 
 from selenium import webdriver
