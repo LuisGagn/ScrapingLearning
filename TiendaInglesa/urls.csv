@@ -1,15 +1,140 @@
-https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
-https://www.tiendainglesa.com.uy/supermercado/categoria/frescos/1894
-https://www.tiendainglesa.com.uy/supermercado/categoria/bebidas/1001
-https://www.tiendainglesa.com.uy/supermercado/categoria/congelados/181
-https://www.tiendainglesa.com.uy/supermercado/categoria/limpieza/1895
-https://www.tiendainglesa.com.uy/supermercado/categoria/perfumeria/569
-https://www.tiendainglesa.com.uy/supermercado/categoria/electro-y-tecnologia/302
-https://www.tiendainglesa.com.uy/supermercado/categoria/jugueteria/618
-https://www.tiendainglesa.com.uy/supermercado/categoria/deportes-y-fitness/4677
-https://www.tiendainglesa.com.uy/supermercado/categoria/hogar-y-tiempo-libre/1005
-https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
-https://www.tiendainglesa.com.uy/supermercado/categoria/textiles/1008
-https://www.tiendainglesa.com.uy/supermercado/categoria/bebes/529
-https://www.tiendainglesa.com.uy/supermercado/categoria/papeleria/4131
-https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Categoria,LVL 1,LVL 2
+Almacén,Golosinas - Chocolates,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Galletas,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Copetín,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Conservas,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Aderezos y Salsas,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Especias - Sal - Sazonadores,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Té - Infusiones,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Dulces - Mermeladas - Miel,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Pastas - Pizzas - Tapas,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Café - Cebada - Cocoa,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Aceites - Vinagres,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Cereales - Avenas - Semillas,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Harina - Levaduras - Puré,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Arroz - Legumbres,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Postres preparar - Coberturas,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Azúcar - Edulcorante,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Yerba,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Caldos - Sopas,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Huevos,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Almacén,Alimentos en Polvo,https://www.tiendainglesa.com.uy/supermercado/categoria/almacen/78
+Frescos,Quesos,https://www.tiendainglesa.com.uy/supermercado/categoria/frescos/1894
+Frescos,Rotisería,https://www.tiendainglesa.com.uy/supermercado/categoria/frescos/1894
+Frescos,Lácteos,https://www.tiendainglesa.com.uy/supermercado/categoria/frescos/1894
+Frescos,Panadería,https://www.tiendainglesa.com.uy/supermercado/categoria/frescos/1894
+Frescos,Carnes,https://www.tiendainglesa.com.uy/supermercado/categoria/frescos/1894
+Frescos,Fiambres,https://www.tiendainglesa.com.uy/supermercado/categoria/frescos/1894
+Frescos,Verduras,https://www.tiendainglesa.com.uy/supermercado/categoria/frescos/1894
+Frescos,Frutas,https://www.tiendainglesa.com.uy/supermercado/categoria/frescos/1894
+Frescos,Pastas Frescas,https://www.tiendainglesa.com.uy/supermercado/categoria/frescos/1894
+Frescos,Pescados - Mariscos,https://www.tiendainglesa.com.uy/supermercado/categoria/frescos/1894
+Bebidas,Bebidas con alcohol,https://www.tiendainglesa.com.uy/supermercado/categoria/bebidas/1001
+Bebidas,Bebidas sin alcohol,https://www.tiendainglesa.com.uy/supermercado/categoria/bebidas/1001
+Congelados,Postres - Helados,https://www.tiendainglesa.com.uy/supermercado/categoria/congelados/181
+Congelados,Comidas Preparadas Congeladas,https://www.tiendainglesa.com.uy/supermercado/categoria/congelados/181
+Congelados,Hamburguesas,https://www.tiendainglesa.com.uy/supermercado/categoria/congelados/181
+Congelados,Frutas - Verduras Congeladas,https://www.tiendainglesa.com.uy/supermercado/categoria/congelados/181
+Congelados,Papas Congeladas,https://www.tiendainglesa.com.uy/supermercado/categoria/congelados/181
+Congelados,Carnes - Aves,https://www.tiendainglesa.com.uy/supermercado/categoria/congelados/181
+Congelados,Pescados - Mariscos Congelados,https://www.tiendainglesa.com.uy/supermercado/categoria/congelados/181
+Congelados,Pizzas Congeladas,https://www.tiendainglesa.com.uy/supermercado/categoria/congelados/181
+Congelados,Panificados Congelados,https://www.tiendainglesa.com.uy/supermercado/categoria/congelados/181
+Limpieza,Limpieza de Hogar,https://www.tiendainglesa.com.uy/supermercado/categoria/limpieza/1895
+Limpieza,Limpieza de Ropa,https://www.tiendainglesa.com.uy/supermercado/categoria/limpieza/1895
+Limpieza,Limpieza de Pisos y Muebles,https://www.tiendainglesa.com.uy/supermercado/categoria/limpieza/1895
+Limpieza,Limpieza de Cocina,https://www.tiendainglesa.com.uy/supermercado/categoria/limpieza/1895
+Limpieza,Limpieza de Baños,https://www.tiendainglesa.com.uy/supermercado/categoria/limpieza/1895
+Perfumería,Cuidado Capilar y Coloración,https://www.tiendainglesa.com.uy/supermercado/categoria/perfumeria/569
+Perfumería,Desodorantes,https://www.tiendainglesa.com.uy/supermercado/categoria/perfumeria/569
+Perfumería,Higiene bucal,https://www.tiendainglesa.com.uy/supermercado/categoria/perfumeria/569
+Perfumería,Cuidado Personal,https://www.tiendainglesa.com.uy/supermercado/categoria/perfumeria/569
+Perfumería,Jabones,https://www.tiendainglesa.com.uy/supermercado/categoria/perfumeria/569
+Perfumería,Suplementos - Complementos,https://www.tiendainglesa.com.uy/supermercado/categoria/perfumeria/569
+Perfumería,Dermocosmética,https://www.tiendainglesa.com.uy/supermercado/categoria/perfumeria/569
+Perfumería,Botiquín,https://www.tiendainglesa.com.uy/supermercado/categoria/perfumeria/569
+Perfumería,Artículos de Afeitar,https://www.tiendainglesa.com.uy/supermercado/categoria/perfumeria/569
+Perfumería,Maquillaje y Cosmética,https://www.tiendainglesa.com.uy/supermercado/categoria/perfumeria/569
+Perfumería,Pañales adultos,https://www.tiendainglesa.com.uy/supermercado/categoria/perfumeria/569
+Perfumería,Perfumes - Colonias,https://www.tiendainglesa.com.uy/supermercado/categoria/perfumeria/569
+Electro y Tecnología,Electrodomésticos de Cocina,https://www.tiendainglesa.com.uy/supermercado/categoria/electro-y-tecnologia/302
+Electro y Tecnología,Audio - Tv - Video - Luces,https://www.tiendainglesa.com.uy/supermercado/categoria/electro-y-tecnologia/302
+Electro y Tecnología,Frío - Calor,https://www.tiendainglesa.com.uy/supermercado/categoria/electro-y-tecnologia/302
+Electro y Tecnología,Pequeños Electrodomésticos,https://www.tiendainglesa.com.uy/supermercado/categoria/electro-y-tecnologia/302
+Electro y Tecnología,Grandes Electrodomésticos,https://www.tiendainglesa.com.uy/supermercado/categoria/electro-y-tecnologia/302
+Electro y Tecnología,Telefonía,https://www.tiendainglesa.com.uy/supermercado/categoria/electro-y-tecnologia/302
+Electro y Tecnología,Hogar Inteligente,https://www.tiendainglesa.com.uy/supermercado/categoria/electro-y-tecnologia/302
+Electro y Tecnología,Informática,https://www.tiendainglesa.com.uy/supermercado/categoria/electro-y-tecnologia/302
+Electro y Tecnología,Entretenimiento,https://www.tiendainglesa.com.uy/supermercado/categoria/electro-y-tecnologia/302
+Juguetería,Juguetes - Juegos,https://www.tiendainglesa.com.uy/supermercado/categoria/jugueteria/618
+Juguetería,Juegos de Mesa,https://www.tiendainglesa.com.uy/supermercado/categoria/jugueteria/618
+Juguetería,Juegos de Piscina - Playa,https://www.tiendainglesa.com.uy/supermercado/categoria/jugueteria/618
+Juguetería,Juegos de Creatividad,https://www.tiendainglesa.com.uy/supermercado/categoria/jugueteria/618
+Juguetería,Juegos de Exterior,https://www.tiendainglesa.com.uy/supermercado/categoria/jugueteria/618
+Juguetería,Bicicletas Infantiles,https://www.tiendainglesa.com.uy/supermercado/categoria/jugueteria/618
+Juguetería,Peluches,https://www.tiendainglesa.com.uy/supermercado/categoria/jugueteria/618
+Juguetería,Monopatines - Patines - Skates,https://www.tiendainglesa.com.uy/supermercado/categoria/jugueteria/618
+Deportes y Fitness,Gym,https://www.tiendainglesa.com.uy/supermercado/categoria/deportes-y-fitness/4677
+Deportes y Fitness,Ciclismo,https://www.tiendainglesa.com.uy/supermercado/categoria/deportes-y-fitness/4677
+Deportes y Fitness,Tablas - Botes - Kayaks,https://www.tiendainglesa.com.uy/supermercado/categoria/deportes-y-fitness/4677
+Deportes y Fitness,Boxeo,https://www.tiendainglesa.com.uy/supermercado/categoria/deportes-y-fitness/4677
+Deportes y Fitness,Protectores para Deportes,https://www.tiendainglesa.com.uy/supermercado/categoria/deportes-y-fitness/4677
+Deportes y Fitness,Basketball,https://www.tiendainglesa.com.uy/supermercado/categoria/deportes-y-fitness/4677
+Deportes y Fitness,Fútbol,https://www.tiendainglesa.com.uy/supermercado/categoria/deportes-y-fitness/4677
+Hogar y Tiempo Libre,Bazar,https://www.tiendainglesa.com.uy/supermercado/categoria/hogar-y-tiempo-libre/1005
+Hogar y Tiempo Libre,Mascotas,https://www.tiendainglesa.com.uy/supermercado/categoria/hogar-y-tiempo-libre/1005
+Hogar y Tiempo Libre,Jardín,https://www.tiendainglesa.com.uy/supermercado/categoria/hogar-y-tiempo-libre/1005
+Hogar y Tiempo Libre,Muebles,https://www.tiendainglesa.com.uy/supermercado/categoria/hogar-y-tiempo-libre/1005
+Hogar y Tiempo Libre,Camping,https://www.tiendainglesa.com.uy/supermercado/categoria/hogar-y-tiempo-libre/1005
+Hogar y Tiempo Libre,Kiosco,https://www.tiendainglesa.com.uy/supermercado/categoria/hogar-y-tiempo-libre/1005
+Hogar y Tiempo Libre,Rodados,https://www.tiendainglesa.com.uy/supermercado/categoria/hogar-y-tiempo-libre/1005
+Hogar y Tiempo Libre,Barbacoas,https://www.tiendainglesa.com.uy/supermercado/categoria/hogar-y-tiempo-libre/1005
+Hogar y Tiempo Libre,Navidad,https://www.tiendainglesa.com.uy/supermercado/categoria/hogar-y-tiempo-libre/1005
+Hogar y Tiempo Libre,Boutique,https://www.tiendainglesa.com.uy/supermercado/categoria/hogar-y-tiempo-libre/1005
+Ferretería,Herramientas de mano,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Adhesivos - Selladores - Cintas - Aceites,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Varios,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Herramientas Eléctricas,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Pintura,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Lamparitas - Tubos,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Pilas,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Cajas de herramientas - Gavetas,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Tornillería - Candados,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Linternas,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Escaleras,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Grifería - Sanitaria - Accesorios,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Artículos de Electricidad,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Burletes - Topes - Zócalos,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Ferretería,Hidrolavadoras,https://www.tiendainglesa.com.uy/supermercado/categoria/ferreteria/379
+Textiles,Blanquería,https://www.tiendainglesa.com.uy/supermercado/categoria/textiles/1008
+Textiles,Marroquinería,https://www.tiendainglesa.com.uy/supermercado/categoria/textiles/1008
+Textiles,Zapatería,https://www.tiendainglesa.com.uy/supermercado/categoria/textiles/1008
+Textiles,Indumentaria,https://www.tiendainglesa.com.uy/supermercado/categoria/textiles/1008
+Bebés,Pañales,https://www.tiendainglesa.com.uy/supermercado/categoria/bebes/529
+Bebés,Higiene,https://www.tiendainglesa.com.uy/supermercado/categoria/bebes/529
+Bebés,Puré de frutas - Alimentos para bebé,https://www.tiendainglesa.com.uy/supermercado/categoria/bebes/529
+Bebés,Artículos varios,https://www.tiendainglesa.com.uy/supermercado/categoria/bebes/529
+Papelería,Varios,https://www.tiendainglesa.com.uy/supermercado/categoria/papeleria/4131
+Papelería,Mochilas,https://www.tiendainglesa.com.uy/supermercado/categoria/papeleria/4131
+Papelería,Lápices,https://www.tiendainglesa.com.uy/supermercado/categoria/papeleria/4131
+Papelería,Bolígrafos,https://www.tiendainglesa.com.uy/supermercado/categoria/papeleria/4131
+Papelería,Cuadernos,https://www.tiendainglesa.com.uy/supermercado/categoria/papeleria/4131
+Papelería,Marcadores - Resaltadores - Otros,https://www.tiendainglesa.com.uy/supermercado/categoria/papeleria/4131
+Papelería,Hojas,https://www.tiendainglesa.com.uy/supermercado/categoria/papeleria/4131
+Papelería,Carpetas,https://www.tiendainglesa.com.uy/supermercado/categoria/papeleria/4131
+Papelería,Cartucheras,https://www.tiendainglesa.com.uy/supermercado/categoria/papeleria/4131
+Papelería,Cuadernolas,https://www.tiendainglesa.com.uy/supermercado/categoria/papeleria/4131
+Ofertas,Bebidas,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Ofertas,Electro y Tecnología,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Ofertas,Almacén,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Ofertas,Frescos,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Ofertas,Hogar y Tiempo Libre,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Ofertas,Congelados,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Ofertas,Juguetería,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Ofertas,Ferretería,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Ofertas,Deportes y Fitness,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Ofertas,Papelería,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Ofertas,Textiles,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Ofertas,Perfumería,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Ofertas,Bebés,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
+Ofertas,Limpieza,https://www.tiendainglesa.com.uy/supermercado/listas/ofertas/3716
