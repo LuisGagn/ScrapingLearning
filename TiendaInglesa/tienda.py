@@ -50,11 +50,10 @@ def GetUrls(url):
                     item = items[i]
 
                     subcategoria = item.find_element(By.XPATH, ".//*[contains(@id, 'TXTTHIRDCATEGORYDESCRIPTION')]").text
-                    urlActual = driver.current_url
                     next = wait.until(EC.element_to_be_clickable(item))
                     next.click()
                     time.sleep(1)
-
+                    urlActual = driver.current_url
                     definitivo.append([categoria, subcategoria, urlActual])
                     
                     driver.back()       
